@@ -1,15 +1,14 @@
 const message = "Hello Javascript";
-//message.toLocaleLowerCase()
 
-const msgToLowerCase = message.toLowerCase()
-const msgToLowerCase = message.toUpperCase()
+//message.toLowerCase()
+
 //const msgToLowerCase = message.toLocaleLowerCase()
+const msgToLowerCase = message.toLowerCase()
 
 console.log(msgToLowerCase);
 
 
-const mySchool = 'Boca Code'
+//const msgToUpperCase = message.toUpperCase()
+const msgToUpperCase = message.toUpperCase()
 
-//
-//
-
+console.log(msgToUpperCase);
